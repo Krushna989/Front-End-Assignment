@@ -1,0 +1,43 @@
+#umbrella-customizer {
+  width: 500px;
+  height: 600px;
+  position: relative;
+}
+
+#color-swatches {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.color-swatch {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.color-swatch.pink {
+  background-color: pink;
+}
+
+.color-swatch.blue {
+  background-color: blue;
+}
+
+.color-swatch.yellow {
+  background-color: yellow;
+}
+
+#logo-preview {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+#logo {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
