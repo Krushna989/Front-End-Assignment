@@ -1,0 +1,11 @@
+<div id="umbrella-customizer">
+  <div id="color-swatches">
+    <button class="color-swatch" data-color="pink"></button>
+    <button class="color-swatch" data-color="blue"></button>
+    <button class="color-swatch" data-color="yellow"></button>
+  </div>
+  <div id="logo-preview">
+    <img id="umbrella" src="https://drive.google.com/file/d/1EGZdRH9RffKCorSJjgKEGCHy4YFro2EX/view?usp=share_link" alt="Umbrella Preview">
+    <img id="logo" src="" alt="Logo Preview">
+  </div>
+</div>
